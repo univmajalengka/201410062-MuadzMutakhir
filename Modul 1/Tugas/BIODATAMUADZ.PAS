@@ -17,7 +17,7 @@ alamat  := '3. Alamat    : Blok. Bodewetan Ds. Kertasari Kec. Weru Kab. Cirebon'
 ttl     := '4. TTL       : Cirebon, 20, Agustus 1997';
 nohp    := '5. No. hp    : 082217412327';
 motto   := '6. Motto     : Lawan orang iri dengki dengan prestasi';
-i:123456;
+i:=12345;
 {Hasil Akhir}
 writeln (nama);
 writeln (npm);

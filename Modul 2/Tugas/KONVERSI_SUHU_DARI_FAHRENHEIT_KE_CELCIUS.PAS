@@ -7,8 +7,8 @@ uses crt;
 
 var f,c:real;
 begin
-writeln ('Program Konversi Suhu Dari Fahrenheit Ke Celcius')
-writeln ('================================================')
+writeln ('Program Konversi Suhu Dari Fahrenheit Ke Celcius');
+writeln ('================================================');
 writeln;
 write ('Masukan Suhu Dalam Fahrenheit : ');readln(f);
 writeln;

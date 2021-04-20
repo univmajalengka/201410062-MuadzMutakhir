@@ -18,7 +18,7 @@ write ('Masukan Nilai Panjang');readln(panjang);
 write ('Masukan Nilai Lebar');readln(lebar);
 
 writeln;
-luas;=panjang*lebar;
+luas:=panjang*lebar;
 writeln ('Luas = Panjang x Lebar');
 
 writeln;
